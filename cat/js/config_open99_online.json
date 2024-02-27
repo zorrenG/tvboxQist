@@ -1,7 +1,7 @@
 ﻿{
 "video": {"sites": [
-{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"wogg_open.js","ext":"填自己的32位token"},
-{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"wogg.js","ext":"填自己的32位token"},
+{"key":"wogg_open","name":"影视 | 玩偶1","type":3,"api":"wogg_open.js","ext":"9d96cd8b17f14470905ff0131b578497"},
+{"key":"wogg","name":"影视 | 玩偶2","type":3,"api":"wogg.js","ext":"9d96cd8b17f14470905ff0131b578497"},
 {"key":"ytvip","name":"影视 | 影探","type":3,"api":"yt.js","ext":"http://ytcms.lyyytv.cn/api.php/app/"},
 {"key":"yqktv_open","name":"影视 | 一起看","type":3,"api":"yqktv_open.js"},
 {"key":"555dy_open","name":"影视 | 555","type":3,"api":"555dy_open.js"},
@@ -101,7 +101,7 @@
     },
 "pan":{"sites":[
 {"key":"alist","name":"Alist","type":40,"api":"alist_open.js","ext":[
-{"name":"丫仙女","server":"http://alist.xiaoya.pro/","startPage":"/","showAll":false,"search":true,"headers":{"Authorization":""},"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
+{"name":"丫仙女","server":"http://alist.xiaoya.pro/","startPage":"/","showAll":false,"search":true,"headers":{"Authorization":"9d96cd8b17f14470905ff0131b578497"},"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
 {"name":"小鸭","server":"http://shicheng.wang:555/","startPage":"/","showAll":false,"search":true,"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
 {"name":"小猫","server":"https://nics.eu.org","startPage":"/SP1","showAll":false,"search":true,"params":{"/abc":{"password":"123"},"/abc/abc":{"password":"123"}}},
 {"name":"ECVE","server":"https://pan.ecve.cn"},
